@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=HemavathiSundar
-              -Dsonar.projectKey=hemasundar
+              -Dsonar.projectKey=sonarcloud
               -Dsonar.python.coverage.reportPaths=coverage.xml
